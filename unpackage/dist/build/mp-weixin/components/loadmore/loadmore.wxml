@@ -1,0 +1,1 @@
+<block wx:if="{{visible}}"><view class="jiangqie-loadmore-class jiangqie-loadmore data-v-72d6dfcd"><view class="{{['data-v-72d6dfcd','jiangqie-loading-'+index+' '+(index==3&&type?'jiangqie-loading-'+type:'')]}}"></view><view class="jiangqie-loadmore-tips data-v-72d6dfcd">{{text}}</view></view></block>
